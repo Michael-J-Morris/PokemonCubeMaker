@@ -1,0 +1,184 @@
+﻿name,type,stage,evolution,rarity,quantity,order
+Bulbasaur,Grass,Basic,,Common,4,1
+Ivysaur,Grass,Stage 1,Bulbasaur,Uncommon,2,2
+Venusaur,Grass,Stage 2,Ivysaur,Rare,0,3
+Charmander,Fire,Basic,,Common,4,4
+Charmeleon,Fire,Stage 1,Charmander,Uncommon,3,5
+Charizard,Fire,Stage 2,Charmeleon,Rare,0,6
+Squirtle,Water,Basic,,Common,4,7
+Wartortle,Water,Stage 1,Squirtle,Uncommon,2,8
+Blastoise,Water,Stage 2,Wartortle,Rare,0,9
+Caterpie,Grass,Basic,,Common,4,10
+Metapod,Grass,Stage 1,Caterpie,Common,4,11
+Butterfree,Grass,Stage 2,Metapod,Rare,2,12
+Weedle,Grass,Basic,,Common,4,13
+Kakuna,Grass,Stage 1,Weedle,Uncommon,4,14
+Beedrill,Grass,Stage 2,Kakuna,Rare,3,15
+Pidgey,Colorless,Basic,,Common,4,16
+Pidgeotto,Colorless,Stage 1,Pidgey,Rare,0,17
+Pidgeot,Colorless,Stage 2,Pidgeotto,Rare,0,18
+Rattata,Colorless,Basic,,Common,4,19
+Raticate,Colorless,Stage 1,Rattata,Uncommon,2,20
+Spearow,Colorless,Basic,,Common,4,21
+Fearow,Colorless,Stage 1,Spearow,Uncommon,2,22
+Ekans,Grass,Basic,,Common,4,23
+Arbok,Grass,Stage 1,Ekans,Uncommon,2,24
+Pikachu,Lightning,Basic,,Common,4,25
+Raichu,Lightning,Stage 1,Pikachu,Rare,1,26
+Sandshrew,Fighting,Basic,,Common,4,27
+Sandslash,Fighting,Stage 1,Sandshrew,Uncommon,2,28
+Nidoran F,Grass,Basic,,Common,4,29
+Nidorina,Grass,Stage 1,Nidoran ♀,Uncommon,2,30
+Nidoqueen,Grass,Stage 2,Nidorina,Rare,1,31
+Nidoran M,Grass,Basic,,Common,4,32
+Nidorino,Grass,Stage 1,Nidoran ♂,Uncommon,2,33
+Nidoking,Grass,Stage 2,Nidorino,Rare,0,34
+Clefairy,Colorless,Basic,,Rare,0,35
+Clefable,Colorless,Stage 1,Clefairy,Rare,0,36
+Vulpix,Fire,Basic,,Common,4,37
+Ninetails,Fire,Stage 1,Vulpix,Rare,1,38
+Jigglypuff,Colorless,Basic,,Common,4,39
+Wigglytuff,Colorless,Stage 1,Jigglypuff,Rare,0,40
+Zubat,Grass,Basic,,Common,4,41
+Golbat,Grass,Stage 1,Zubat,Uncommon,2,42
+Oddish,Grass,Basic,,Common,1,43
+Gloom,Grass,Stage 1,Oddish,Uncommon,0,44
+Vileplume,Grass,Stage 2,Gloom,Rare,0,45
+Paras,Grass,Basic,,Common,4,46
+Parasect,Grass,Stage 1,Paras,Uncommon,2,47
+Venonat,Grass,Basic,,Common,1,48
+Venomoth,Grass,Stage 1,Venonat,Rare,1,49
+Diglett,Fighting,Basic,,Common,4,50
+Dugtrio,Fighting,Stage 1,Diglett,Rare,0,51
+Meowth,Colorless,Basic,,Common,4,52
+Persian,Colorless,Stage 1,Meowth,Uncommon,3,53
+Psyduck,Water,Basic,,Common,4,54
+Golduck,Water,Stage 1,Psyduck,Uncommon,2,55
+Mankey,Fighting,Basic,,Common,4,56
+Primeape,Fighting,Stage 1,Mankey,Uncommon,2,57
+Growlithe,Fire,Basic,,Uncommon,4,58
+Arcanine,Fire,Stage 1,Growlithe,Uncommon,2,59
+Poliwag,Water,Basic,,Common,4,60
+Poliwhirl,Water,Stage 1,Poliwag,Uncommon,2,61
+Poliwrath,Water,Stage 2,Poliwhirl,Rare,1,62
+Abra,Psychic,Basic,,Common,4,63
+Kadabra,Psychic,Stage 1,Abra,Uncommon,2,64
+Alakazam,Psychic,Stage 2,Kadabra,Rare,0,65
+Machop,Fighting,Basic,,Common,4,66
+Machoke,Fighting,Stage 1,Machop,Uncommon,4,67
+Machamp,Fighting,Stage 2,Machoke,Rare,2,68
+Bellsprout,Grass,Basic,,Common,4,69
+Weepinbell,Grass,Stage 1,Bellsprout,Uncommon,4,70
+Victreebel,Grass,Stage 2,Weepinbell,Rare,2,71
+Tentacool,Water,Stage 1,,Common,1,72
+Tentacruel,Water,Basic,Tentacool,Uncommon,1,73
+Geodude,Fighting,Basic,,Common,4,74
+Graveler,Fighting,Stage 1,Geodude,Uncommon,3,75
+Golem,Fighting,Stage 2,Graveler,Uncommon,1,76
+Ponyta,Fire,Basic,,Common,4,77
+Rapidash,Fire,Stage 1,Ponyta,Uncommon,2,78
+Slowpoke,Psychic,Basic,,Common,4,79
+Slowbro,Psychic,Stage 1,Slowpoke,Uncommon,3,80
+Magnemite,Lightning,Basic,,Common,4,81
+Magneton,Lightning,Stage 1,Magnemite,Rare,1,82
+Farfetch'd,Colorless,Basic,,Uncommon,2,83
+Doduo,Colorless,Basic,,Common,4,84
+Dotrio,Colorless,Stage 1,Doduo,Uncommon,2,85
+Seel,Water,Basic,,Uncommon,4,86
+Dewgon,Water,Stage 1,Seel,Uncommon,2,87
+Grimer,Grass,Basic,,Common,4,88
+Muk,Grass,Stage 1,Grimer,Rare,0,89
+Shellder,Water,Basic,,Common,2,90
+Cloyster,Water,Stage 1,Shellder,Uncommon,1,91
+Gastly,Psychic,Basic,,Common,4,92
+Haunter,Psychic,Stage 1,Gastly,Uncommon,2,93
+Haunter Rare,Psychic,Stage 1,Gastly,Rare,1,94
+Gengar,Psychic,Stage 2,Haunter,Rare,0,95
+Onix,Fighting,Basic,,Common,4,96
+Drowzee,Psychic,Basic,,Common,4,97
+Hypno,Psychic,Stage 1,Drowzee,Rare,0,98
+Krabby,Water,Basic,,Common,2,99
+Kingler,Water,Stage 1,Krabby,Uncommon,0,100
+Voltorb,Lightning,Basic,,Common,4,101
+Electrode,Lightning,Stage 1,Voltorb,Rare,1,102
+Exeggcute,Grass,Basic,,Common,3,103
+Exeggutor,Grass,Stage 1,Exeggcute,Uncommon,1,104
+Cubone,Fighting,Basic,,Common,4,105
+Marowak,Fighting,Stage 1,Cubone,Uncommon,2,106
+Hitmonlee,Fighting,Basic,,Rare,0,107
+Hitmonchan,Fighting,Basic,,Rare,0,108
+Lickitung,Colorless,Basic,,Uncommon,2,109
+Koffing,Grass,Basic,,Common,4,110
+Weezing,Grass,Stage 1,Koffing,Uncommon,2,111
+Rhyhorn,Fighting,Basic,,Common,4,112
+Rhydon,Fighting,Stage 1,Rhyhorn,Uncommon,2,113
+Chansey,Colorless,Basic,,Rare,1,114
+Tangela,Grass,Basic,,Common,2,115
+Kangaskhan,Colorless,Basic,,Rare,1,116
+Horsea,Water,Basic,,Common,1,117
+Seadra,Water,Stage 1,Horsea,Uncommon,0,118
+Goldeen,Water,Basic,,Common,1,119
+Seaking,Water,Stage 1,Goldeen,Uncommon,1,120
+Staryu,Water,Basic,,Common,4,121
+Starmie,Water,Stage 1,Staryu,Common,4,122
+Mr. Mime,Psychic,Basic,,Rare,0,123
+Scyther,Grass,Basic,,Rare,1,124
+Jynx,Psychic,Basic,,Uncommon,3,125
+Electabuzz,Lightning,Basic,,Rare,0,126
+Magmar,Fire,Basic,,Uncommon,4,127
+Pinsir,Grass,Basic,,Rare,0,128
+Tauros,Colorless,Basic,,Uncommon,2,129
+Magikarp,Water,Basic,,Uncommon,0,130
+Gyarados,Water,Stage 1,Magikarp,Rare,0,131
+Lapras,Water,Basic,,Rare,0,132
+Ditto,Colorless,Basic,,Rare,0,133
+Eevee,Colorless,Basic,,Common,4,134
+Vaporeon,Water,Stage 1,Eevee,Rare,1,135
+Jolteon,Lightning,Stage 1,Eevee,Rare,1,136
+Flareon,Fire,Stage 1,Eevee,Rare,0,137
+Porygon,Colorless,Basic,,Uncommon,2,138
+Omanyte,Water,Stage 1,Mysterious Fossil,Common,4,139
+Omastar,Water,Stage 2,Omanyte,Uncommon,2,140
+Kabuto,Fighting,Stage 1,Mysterious Fossil,Common,4,141
+Kabutops,Fighting,Stage 1,Kabuto,Rare,0,142
+Aerodactyl,Fighting,Basic,Mysterious Fossil,Rare,1,143
+Snorlax,Colorless,Basic,,Rare,1,144
+Articuno,Water,Basic,,Rare,0,145
+Zapdos,Lightning,Basic,,Rare,1,146
+Moltres,Fire,Basic,,Rare,1,147
+Dratini,Colorless,Basic,,Uncommon,3,148
+Dragonair,Colorless,Stage 1,Dratini,Rare,0,149
+Dragonite,Colorless,Stage 2,Dragonair,Rare,1,150
+Mewtwo,Psychic,Basic,,Rare,3,151
+Pokemon Breeder,Trainer,Trainer,,Rare,1,152
+Item Finder,Trainer,Trainer,,Rare,3,153
+Pokemon Trader,Trainer,Trainer,,Rare,1,154
+Computer Search,Trainer,Trainer,,Rare,1,155
+Energy Removal,Trainer,Trainer,,Common,4,156
+Gust of Wind,Trainer,Trainer,,Common,4,157
+Potion,Trainer,Trainer,,Common,4,158
+Professor Oak,Trainer,Trainer,,Uncommon,3,159
+Revive,Trainer,Trainer,,Uncommon,1,160
+Bill,Trainer,Trainer,,Common,4,161
+Defender,Trainer,Trainer,,Uncommon,4,162
+Energy Retrieval,Trainer,Trainer,,Uncommon,4,163
+Full Heal,Trainer,Trainer,,Uncommon,3,164
+Maintenance,Trainer,Trainer,,Uncommon,4,165
+PlusPower,Trainer,Trainer,,Uncommon,4,166
+Pokedex,Trainer,Trainer,,Uncommon,4,167
+Pokemon Center,Trainer,Trainer,,Uncommon,2,168
+Super Potion,Trainer,Trainer,,Uncommon,3,169
+Switch,Trainer,Trainer,,Common,4,170
+Pokeball,Trainer,Trainer,,Common,4,171
+Energy Search,Trainer,Trainer,,Common,4,172
+Gambler,Trainer,Trainer,,Common,4,173
+Mr. Fuji,Trainer,Trainer,,Uncommon,1,174
+Mysterious Fossil,Trainer,Basic,,Common,4,175
+Clefairy Doll,Trainer,Trainer,,Rare,0,176
+Imposter Professor Oak,Trainer,Trainer,,Rare,0,177
+Recycle,Trainer,Trainer,,Common,2,178
+Lass,Trainer,Trainer,,Rare,0,179
+Pokemon Flute,Trainer,Trainer,,Rare,0,180
+Sccop Up,Trainer,Trainer,,Rare,0,181
+Super Energy Removal,Trainer,Trainer,,Rare,0,182
+Devololution Spray,Trainer,Trainer,,Rare,0,183
